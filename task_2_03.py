@@ -1,0 +1,1 @@
+print(str(4).zfill(2), str(2).zfill(2), 2026, sep='.')
